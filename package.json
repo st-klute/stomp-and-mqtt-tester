@@ -1,0 +1,20 @@
+{
+  "name": "rabbitmq-stomp-mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stomp/stompjs": "^7.0.0",
+    "dotenv": "^16.4.5",
+    "mqtt": "^5.10.2",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+  }
+}
